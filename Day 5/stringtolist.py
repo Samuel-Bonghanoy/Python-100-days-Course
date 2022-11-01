@@ -1,5 +1,5 @@
 import random
-a = "superman is gay as hell brodda"
+a = "wassup brodda"
 b = list(a)
 random.shuffle(b)
 c = ""

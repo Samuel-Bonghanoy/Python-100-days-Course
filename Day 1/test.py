@@ -1,5 +1,8 @@
-print('''Yo momma
-        yo momma
-        YO MOMMA 
-        YO MOMMA
+print('''
+hi
+hi
+hi
+hi
+hi
+hi
 ''')
