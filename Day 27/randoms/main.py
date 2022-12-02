@@ -1,24 +1,4 @@
-#adding attributes and methods to another class through inheritance
-
-class Animal:
-    def __init__(self):
-        self.num_eyes = 2
-
-    def breathe(self):
-        print("Inhale, exhale")
-
-class Fish(Animal):
-    def __init__(self):
-        super().__init__()
-
-    def swim(self):
-        print("Moving in water")
-
-    def breathe(self):
-        super().breathe()
-        print("doing this underwater")
-
-        import Read_Hospital_Excel_Sheet
+import Read_Hospital_Excel_Sheet
 import Write_Hospital_Excel_Sheet
 
 	
